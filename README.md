@@ -26,8 +26,11 @@ Once prediction is completed the file will be placed at prediction output file.
 ## Screen shot 
 Below are some screen shot of runnable project.
 
+Main Page
+
 ![Input Page](https://github.com/niteshpandeyofficial/ML_Project/blob/a9f30e2c9e7711e54dfbef0f80c43d801863332d/Input%20File.PNG?raw=true "Optional Title")
 
+Once prediction completed.
 ![Output Page](https://github.com/niteshpandeyofficial/ML_Project/blob/a9f30e2c9e7711e54dfbef0f80c43d801863332d/prediction_file.PNG?raw=true "Optional Title")
 
 
