@@ -17,6 +17,12 @@ This dataset predicts the visibility distance based on the different indicators 
 9.	SeaLevelPressure- Sea level pressure (in Hg).
 10.	Precip	Total-precipitation in the past hour (in inches).
 
+There is two option available out of which one is used for manual file prediction and other is for already in prediction batch file.
+We have to give the absolute path where the file is kept for production.
+
+Once prediction is completed the file will be placed at prediction output file.
+
+
 ## Screen shot 
 Below are some screen shot of runnable project.
 
