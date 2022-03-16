@@ -17,6 +17,16 @@ This dataset predicts the visibility distance based on the different indicators 
 9.	SeaLevelPressure- Sea level pressure (in Hg).
 10.	Precip	Total-precipitation in the past hour (in inches).
 
+## Configuration Details
+Python 3.7
+
+Execution of this project is started from main.py python file.we need to run this project using below mention command.
+
+```bash
+Python main.app
+
+```
+
 There is two option available out of which one is used for manual file prediction and other is for already in prediction batch file.
 We have to give the absolute path where the file is kept for production.
 
