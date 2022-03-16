@@ -18,7 +18,7 @@ This dataset predicts the visibility distance based on the different indicators 
 10.	Precip	Total-precipitation in the past hour (in inches).
 
 ## Screen shot 
-Below are given some screen shot of this project.
+Below are some screen shot of runnable project.
 
 
 
