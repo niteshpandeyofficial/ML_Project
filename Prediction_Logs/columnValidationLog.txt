@@ -1,0 +1,20 @@
+2022-03-16/13:47:35		Column Length Validation Started!!
+2022-03-16/13:47:40		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2022-03-16/13:47:40		Column Length Validation Completed!!
+2022-03-16/15:37:55		Column Length Validation Started!!
+2022-03-16/15:37:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012019_120066.csv
+2022-03-16/15:37:58		Column Length Validation Completed!!
+2022-03-16/15:44:41		Column Length Validation Started!!
+2022-03-16/15:44:42		Column Length Validation Completed!!
+2022-03-16/15:45:36		Column Length Validation Started!!
+2022-03-16/15:45:37		Column Length Validation Completed!!
+2022-03-16/15:48:20		Column Length Validation Started!!
+2022-03-16/15:48:20		Column Length Validation Completed!!
+2022-03-16/15:48:30		Column Length Validation Started!!
+2022-03-16/15:48:30		Column Length Validation Completed!!
+2022-03-16/15:48:40		Column Length Validation Started!!
+2022-03-16/15:48:40		Column Length Validation Completed!!
+2022-03-16/15:49:10		Column Length Validation Started!!
+2022-03-16/15:49:10		Column Length Validation Completed!!
+2022-03-16/15:50:22		Column Length Validation Started!!
+2022-03-16/15:50:23		Column Length Validation Completed!!

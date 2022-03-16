@@ -1,0 +1,179 @@
+2022-03-16/13:47:33		Start of Validation on files for prediction!!
+2022-03-16/13:47:41		Raw Data Validation Complete!!
+2022-03-16/13:47:41		Starting Data Transforamtion!!
+2022-03-16/13:47:44		DataTransformation Completed!!!
+2022-03-16/13:47:44		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-16/13:47:51		Table creation Completed!!
+2022-03-16/13:47:51		Insertion of Data into Table started!!!!
+2022-03-16/14:19:08		Insertion in Table completed!!!
+2022-03-16/14:19:08		Deleting Good Data Folder!!!
+2022-03-16/14:19:08		Good_Data folder deleted!!!
+2022-03-16/14:19:08		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-16/14:19:08		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-16/14:19:08		Validation Operation completed!!
+2022-03-16/14:19:08		Extracting csv file from table
+2022-03-16/14:19:09		Start of Prediction
+2022-03-16/14:19:09		Entered the get_data method of the Data_Getter class
+2022-03-16/14:19:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-16/14:19:09		Entered the is_null_present method of the Preprocessor class
+2022-03-16/14:19:09		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/14:19:09		Entered the load_model method of the File_Operation class
+2022-03-16/14:19:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-16/14:19:10		Entered the find_correct_model_file method of the File_Operation class
+2022-03-16/14:19:10		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-16/14:19:10		Entered the load_model method of the File_Operation class
+2022-03-16/14:19:10		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-03-16/14:19:11		End of Prediction
+2022-03-16/15:29:45		Start of Validation on files for prediction!!
+2022-03-16/15:30:27		Start of Validation on files for prediction!!
+2022-03-16/15:31:16		Start of Validation on files for prediction!!
+2022-03-16/15:31:27		Start of Validation on files for prediction!!
+2022-03-16/15:31:30		Start of Validation on files for prediction!!
+2022-03-16/15:34:27		Start of Validation on files for prediction!!
+2022-03-16/15:43:35		Start of Validation on files for prediction!!
+2022-03-16/15:44:41		Start of Validation on files for prediction!!
+2022-03-16/15:44:42		Raw Data Validation Complete!!
+2022-03-16/15:44:42		Starting Data Transforamtion!!
+2022-03-16/15:44:42		DataTransformation Completed!!!
+2022-03-16/15:44:42		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-16/15:44:45		Table creation Completed!!
+2022-03-16/15:44:45		Insertion of Data into Table started!!!!
+2022-03-16/15:44:45		Insertion in Table completed!!!
+2022-03-16/15:44:45		Deleting Good Data Folder!!!
+2022-03-16/15:44:45		Good_Data folder deleted!!!
+2022-03-16/15:44:45		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-16/15:44:45		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-16/15:44:45		Validation Operation completed!!
+2022-03-16/15:44:45		Extracting csv file from table
+2022-03-16/15:44:45		Start of Prediction
+2022-03-16/15:44:45		Entered the get_data method of the Data_Getter class
+2022-03-16/15:44:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-16/15:44:45		Entered the is_null_present method of the Preprocessor class
+2022-03-16/15:44:45		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/15:44:45		Error occured while running the prediction!! Error:: Found array with 0 sample(s) (shape=(0, 5)) while a minimum of 1 is required by StandardScaler.
+2022-03-16/15:45:36		Start of Validation on files for prediction!!
+2022-03-16/15:45:37		Raw Data Validation Complete!!
+2022-03-16/15:45:37		Starting Data Transforamtion!!
+2022-03-16/15:45:37		DataTransformation Completed!!!
+2022-03-16/15:45:37		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-16/15:45:39		Table creation Completed!!
+2022-03-16/15:45:39		Insertion of Data into Table started!!!!
+2022-03-16/15:45:39		Insertion in Table completed!!!
+2022-03-16/15:45:39		Deleting Good Data Folder!!!
+2022-03-16/15:45:39		Good_Data folder deleted!!!
+2022-03-16/15:45:39		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-16/15:45:40		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-16/15:45:40		Validation Operation completed!!
+2022-03-16/15:45:40		Extracting csv file from table
+2022-03-16/15:45:40		Start of Prediction
+2022-03-16/15:45:40		Entered the get_data method of the Data_Getter class
+2022-03-16/15:45:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-16/15:45:40		Entered the is_null_present method of the Preprocessor class
+2022-03-16/15:45:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/15:45:40		Error occured while running the prediction!! Error:: Found array with 0 sample(s) (shape=(0, 5)) while a minimum of 1 is required by StandardScaler.
+2022-03-16/15:48:19		Start of Validation on files for prediction!!
+2022-03-16/15:48:20		Raw Data Validation Complete!!
+2022-03-16/15:48:20		Starting Data Transforamtion!!
+2022-03-16/15:48:20		DataTransformation Completed!!!
+2022-03-16/15:48:20		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-16/15:48:23		Table creation Completed!!
+2022-03-16/15:48:23		Insertion of Data into Table started!!!!
+2022-03-16/15:48:23		Insertion in Table completed!!!
+2022-03-16/15:48:23		Deleting Good Data Folder!!!
+2022-03-16/15:48:23		Good_Data folder deleted!!!
+2022-03-16/15:48:23		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-16/15:48:24		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-16/15:48:24		Validation Operation completed!!
+2022-03-16/15:48:24		Extracting csv file from table
+2022-03-16/15:48:24		Start of Prediction
+2022-03-16/15:48:24		Entered the get_data method of the Data_Getter class
+2022-03-16/15:48:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-16/15:48:24		Entered the is_null_present method of the Preprocessor class
+2022-03-16/15:48:24		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/15:48:24		Error occured while running the prediction!! Error:: Found array with 0 sample(s) (shape=(0, 5)) while a minimum of 1 is required by StandardScaler.
+2022-03-16/15:48:30		Start of Validation on files for prediction!!
+2022-03-16/15:48:30		Raw Data Validation Complete!!
+2022-03-16/15:48:30		Starting Data Transforamtion!!
+2022-03-16/15:48:30		DataTransformation Completed!!!
+2022-03-16/15:48:30		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-16/15:48:33		Table creation Completed!!
+2022-03-16/15:48:33		Insertion of Data into Table started!!!!
+2022-03-16/15:48:34		Insertion in Table completed!!!
+2022-03-16/15:48:34		Deleting Good Data Folder!!!
+2022-03-16/15:48:34		Good_Data folder deleted!!!
+2022-03-16/15:48:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-16/15:48:34		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-16/15:48:34		Validation Operation completed!!
+2022-03-16/15:48:34		Extracting csv file from table
+2022-03-16/15:48:34		Start of Prediction
+2022-03-16/15:48:34		Entered the get_data method of the Data_Getter class
+2022-03-16/15:48:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-16/15:48:34		Entered the is_null_present method of the Preprocessor class
+2022-03-16/15:48:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/15:48:34		Error occured while running the prediction!! Error:: Found array with 0 sample(s) (shape=(0, 5)) while a minimum of 1 is required by StandardScaler.
+2022-03-16/15:48:40		Start of Validation on files for prediction!!
+2022-03-16/15:48:40		Raw Data Validation Complete!!
+2022-03-16/15:48:40		Starting Data Transforamtion!!
+2022-03-16/15:48:40		DataTransformation Completed!!!
+2022-03-16/15:48:40		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-16/15:48:42		Table creation Completed!!
+2022-03-16/15:48:42		Insertion of Data into Table started!!!!
+2022-03-16/15:48:42		Insertion in Table completed!!!
+2022-03-16/15:48:42		Deleting Good Data Folder!!!
+2022-03-16/15:48:42		Good_Data folder deleted!!!
+2022-03-16/15:48:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-16/15:48:42		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-16/15:48:42		Validation Operation completed!!
+2022-03-16/15:48:42		Extracting csv file from table
+2022-03-16/15:48:42		Start of Prediction
+2022-03-16/15:48:42		Entered the get_data method of the Data_Getter class
+2022-03-16/15:48:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-16/15:48:42		Entered the is_null_present method of the Preprocessor class
+2022-03-16/15:48:42		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/15:48:42		Error occured while running the prediction!! Error:: Found array with 0 sample(s) (shape=(0, 5)) while a minimum of 1 is required by StandardScaler.
+2022-03-16/15:49:10		Start of Validation on files for prediction!!
+2022-03-16/15:49:10		Raw Data Validation Complete!!
+2022-03-16/15:49:10		Starting Data Transforamtion!!
+2022-03-16/15:49:10		DataTransformation Completed!!!
+2022-03-16/15:49:10		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-16/15:49:12		Table creation Completed!!
+2022-03-16/15:49:12		Insertion of Data into Table started!!!!
+2022-03-16/15:49:12		Insertion in Table completed!!!
+2022-03-16/15:49:12		Deleting Good Data Folder!!!
+2022-03-16/15:49:12		Good_Data folder deleted!!!
+2022-03-16/15:49:12		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-16/15:49:12		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-16/15:49:12		Validation Operation completed!!
+2022-03-16/15:49:12		Extracting csv file from table
+2022-03-16/15:49:12		Start of Prediction
+2022-03-16/15:49:12		Entered the get_data method of the Data_Getter class
+2022-03-16/15:49:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-16/15:49:12		Entered the is_null_present method of the Preprocessor class
+2022-03-16/15:49:12		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/15:49:12		Error occured while running the prediction!! Error:: Found array with 0 sample(s) (shape=(0, 5)) while a minimum of 1 is required by StandardScaler.
+2022-03-16/15:50:22		Start of Validation on files for prediction!!
+2022-03-16/15:50:23		Raw Data Validation Complete!!
+2022-03-16/15:50:23		Starting Data Transforamtion!!
+2022-03-16/15:50:24		DataTransformation Completed!!!
+2022-03-16/15:50:24		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-16/15:50:26		Table creation Completed!!
+2022-03-16/15:50:26		Insertion of Data into Table started!!!!
+2022-03-16/16:12:03		Insertion in Table completed!!!
+2022-03-16/16:12:03		Deleting Good Data Folder!!!
+2022-03-16/16:12:03		Good_Data folder deleted!!!
+2022-03-16/16:12:03		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-16/16:12:03		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-16/16:12:03		Validation Operation completed!!
+2022-03-16/16:12:03		Extracting csv file from table
+2022-03-16/16:12:04		Start of Prediction
+2022-03-16/16:12:04		Entered the get_data method of the Data_Getter class
+2022-03-16/16:12:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-16/16:12:04		Entered the is_null_present method of the Preprocessor class
+2022-03-16/16:12:04		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/16:12:05		Entered the load_model method of the File_Operation class
+2022-03-16/16:12:05		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-16/16:12:06		Entered the find_correct_model_file method of the File_Operation class
+2022-03-16/16:12:06		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-16/16:12:06		Entered the load_model method of the File_Operation class
+2022-03-16/16:12:06		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-03-16/16:12:08		End of Prediction
